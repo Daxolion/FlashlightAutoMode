@@ -60,5 +60,7 @@ Contributions are welcome.
 	- https://www.bohemia.net/community/licenses/dayz-public-license-dpl
 
 ## Disclaimer
+![License](https://i.imgur.com/aooJ1dr.png)
 DayZ and Bohemia Interactive are trademarks of their respective owners.
 This project is community-made and is not affiliated with or endorsed by Bohemia Interactive.
+
