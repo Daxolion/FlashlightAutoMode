@@ -45,7 +45,6 @@ Should work with most mods that rely on the vanilla slots.
 2. Ensure the `.bikey` is installed on the server.
 
 ## Support / Feedback
-- Website: https://daxolion.de/
 - Bugs & suggestions: please use the Workshop Discussions for this item.
 
 ## Contributing
