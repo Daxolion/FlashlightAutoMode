@@ -1,0 +1,6 @@
+# Local VS Code workspace files
+FlashlightAutoMode.code-workspace
+scripts/workbench
+*.png
+*.xcf
+*.bundle

@@ -1,0 +1,15 @@
+{
+    "Departments": [
+        {
+            "DepartmentName": "FlashlightAutoMode",
+            "Sections": [
+                {
+                    "SectionName": "Developers",
+                    "SectionLines": [
+                        "Daxolion"
+					]
+                }
+            ]
+        }
+    ]
+}
